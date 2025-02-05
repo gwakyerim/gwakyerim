@@ -4,23 +4,35 @@
 <div align="center">누구보다 웹 표준과 웹 접근성에 진심인 퍼블리셔입니다.</div>
 <div align="center">다른 사람들과 소통하고 협업하는 일을 굉장히 좋아해요!</div>
 
-
+<br>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-00599C?style=flat-square&logo=C%2B%2B&logoColor=#E34F26](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white/></a>&nbsp
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
 </p>
 
+<br>
+
+<h3 align="center">❤️ I like... ❤️</h3>
+<p align="center">💪mountain climbing,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
+
+<br>
 
 <h3 align="center">💗 Follow Me 💗</h3>
 <p align="center">
-  <a href="https://velog.io/@yerim's"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/jh19930)"/></a>&nbsp
+  <a href="https://blog.naver.com/jh19930"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/jh19930)"/></a>&nbsp
   <a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_yer2m/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kyl09500@gmail.com"/></a>
+  <a href="mailto:kyl09500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kyl09500@gmail.com"/></a>
 </p>
+
+<br>
+<br>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
